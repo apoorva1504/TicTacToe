@@ -4,6 +4,10 @@ A fun and interactive **Tic Tac Toe Game** built using **HTML, CSS, and JavaScri
 Play against a friend right in your browser!  
 
 ---
+## 🌐 Live Demo
+👉 [Play Now](https://apoorva1504.github.io/TicTacToe/)
+
+---
 
 ## 🚀 Features
 - ✅ Two-player mode (X vs O)  
